@@ -3,8 +3,8 @@
 
 ![hospital banco de dados](hospitaldb.png)
 
-Neste projeto, desenvolvi um banco de dados de gerenciamento hospitalar utilizando MySQL. O objetivo foi organizar as informações de um hospital, facilitando o cadastro e o gerenciamento de pacientes, médicos, consultas, convênios, internações, quartos, prescrições e medicamentos.
+A tabela apresentada faz parte do banco de dados do sistema de gerenciamento hospitalar, desenvolvido utilizando o MySQL. Ela foi criada para organizar e armazenar informações importantes do hospital, facilitando o cadastro, a consulta e o gerenciamento dos dados.
 
-Durante o desenvolvimento, criei tabelas, estabeleci relacionamentos entre elas e inseri dados para realizar consultas SQL. Também trabalhei com comandos para buscar, organizar e calcular informações importantes para o funcionamento do hospital.
+Cada coluna representa uma informação diferente, como identificadores, nomes, datas e outros dados necessários para o funcionamento do sistema. A chave primária (PRIMARY KEY) serve para identificar cada registro, enquanto as chaves estrangeiras (FOREIGN KEY) permitem relacionar essa tabela com outras tabelas do banco de dados.
 
-Com esse projeto, consegui colocar em prática os conhecimentos que aprendi sobre banco de dados relacionais e MySQL, além de desenvolver minhas habilidades na criação e organização de sistemas. Foi uma oportunidade de aprender mais e ganhar experiência na área de tecnologia.
+Dessa forma, a tabela ajuda a manter as informações organizadas, facilita a realização de consultas SQL e evita a repetição desnecessária de dados.
