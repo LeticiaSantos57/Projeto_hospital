@@ -1,4 +1,4 @@
 # Projeto_hospital
 
 
-![hospital banco de dados](hospitaldb)
+![hospital banco de dados](hospitaldb.png)
