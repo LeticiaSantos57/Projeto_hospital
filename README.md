@@ -18,5 +18,14 @@ Cada tabela possui uma função específica, armazenando informações sobre pac
 Dessa forma, o diagrama ajuda a entender como o banco de dados foi estruturado utilizando o MySQL.
 
 
+Ao finalizar este projeto, consegui desenvolver um banco de dados de gerenciamento hospitalar utilizando o MySQL. Durante a realização da atividade, criei as tabelas, organizei as informações e estabeleci os relacionamentos entre elas.
+
+Também desenvolvi consultas SQL para buscar informações importantes, como valores de consultas, convênios, especialidades médicas, pacientes e internações.
+
+Com esse projeto, consegui colocar em prática os conhecimentos que aprendi durante as aulas e entender melhor como funciona a organização de um banco de dados relacional.
+
+Concluo que foi uma experiência importante para meu aprendizado, pois pude aprender mais sobre MySQL, comandos SQL e a importância de um banco de dados para organizar as informações de um hospital.
+
+
 
 
