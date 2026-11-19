@@ -8,3 +8,6 @@ A tabela apresentada faz parte do banco de dados do sistema de gerenciamento hos
 Cada coluna representa uma informação diferente, como identificadores, nomes, datas e outros dados necessários para o funcionamento do sistema. A chave primária (PRIMARY KEY) serve para identificar cada registro, enquanto as chaves estrangeiras (FOREIGN KEY) permitem relacionar essa tabela com outras tabelas do banco de dados.
 
 Dessa forma, a tabela ajuda a manter as informações organizadas, facilita a realização de consultas SQL e evita a repetição desnecessária de dados.
+
+<img width="1133" height="722" alt="image" src="https://github.com/user-attachments/assets/974debf0-3b7c-4ec6-8cbf-4e03ccfb8b1a" />
+
